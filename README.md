@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Link do projeto
+See [MontyHall](https://monty-hall-beta.netlify.app/).
+
+falta escrever README.
